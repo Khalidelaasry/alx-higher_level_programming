@@ -59,7 +59,7 @@ The 0x00 Python - Hello, World project introduces you to the basics of Python pr
 - Understand the basics of Python programming.
 - Learn to write simple Python scripts to perform various tasks.
 - Get hands-on experience with Python syntax and formatting.
-- Introduce the concept of linked lists in C and how to check for cycles.
+- Introduce the concept of  linked lists in C and how to check for cycles.
 
 ## Usage
 
