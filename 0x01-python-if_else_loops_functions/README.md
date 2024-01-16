@@ -73,7 +73,7 @@ The 0x01 Python - If/Else, Loops, Functions project introduces you to the concep
 
 ## Usage
 
-To run the Python scripts, use the following commands:
+To run the Python scripts, use the  following commands:
 
 ## Author
 
