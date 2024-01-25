@@ -10,6 +10,7 @@ Welcome to the ALX Higher Level Programming repository! This repository contains
 2. [0x01. Python - If/Else, Loops, Functions](./0x01-python-if_else_loops_functions/README.md)
 3. [0x02. Python - Import & Modules](./0x02-python-import_modules/README.md)
 4. [0x03. Python - Data Structures: Lists, Tuples](./0x03-python-data_structures/README.md)
+5. [0x04. Python - More Data Structures: Set, Dictionary](./0x04-python-more_data_structures/README.md)
 
 ## Learning Objectives
 
