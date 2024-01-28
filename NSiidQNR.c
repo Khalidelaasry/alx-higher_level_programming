@@ -1,1 +1,0 @@
-// This is NSiidQNR.c

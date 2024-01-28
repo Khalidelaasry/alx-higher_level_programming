@@ -1,1 +1,0 @@
-// This is lydmangN.c
