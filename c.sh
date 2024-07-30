@@ -7,14 +7,14 @@ REPO_NAME="your_repository"
 
 for i in {0..55}
 do
-    touch "file${i}.js"
-    echo "// This is file ${i}" >> "file${i}.js"
+    touch "file${i}.c"
+    echo "// This is file ${i}" >> "file${i}.c"
 done
 
 # Add, commit, and push each file
 for i in {0..91}
 do
-    git add "file${i}.py"
+    git add "file${i}.c"
     git commit -m "All tasks finished! 🏁"
     git push 
 done
