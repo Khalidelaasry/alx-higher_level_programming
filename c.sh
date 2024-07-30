@@ -7,8 +7,8 @@ REPO_NAME="your_repository"
 
 for i in {0..55}
 do
-    touch "file${i}.py"
-    echo "// This is file ${i}" >> "file${i}.py"
+    touch "file${i}.js"
+    echo "// This is file ${i}" >> "file${i}.js"
 done
 
 # Add, commit, and push each file
